@@ -5,7 +5,7 @@ Active contributions, issues and communication completed via [Talent Buyer Origi
 
 
 ### Links
-- [Talent Buyer](https://talent-buyer.herokuapp.com/) live on Heroku
+- [Talent Buyer](https://talent-buyer.netlify.com/) live application
 - [Talent-Buyer-api](https://github.com/colinwarmstrong/talent-buyer-api) repo on Github
 
 ### Technologies Used
